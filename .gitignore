@@ -50,3 +50,4 @@ compile_commands.json
 
 # ignored __build folder
 __build
+.vscode
